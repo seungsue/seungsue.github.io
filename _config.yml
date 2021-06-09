@@ -3,7 +3,6 @@ author: SeungSueLee
 email: jung969800@naver.com
 copyright: 2021 seungsue
 description: > # this means to ignore newlines until "show_excerpts:"
-  ![강릉원주대학교 로고](./images/GWNU.jpg)
   오픈소스 소프트웨어 블로그 만들기
 
 show_excerpts: false # set to true to show excerpts on the homepage
@@ -12,7 +11,7 @@ lin:
   date_format: "%b %-d, %Y"
 
   # path to the author avatar image
-  avatar_path: ![강릉원주대학교 로고](./images/GWNU.jpg)
+  avatar_path: assets/images/GWNU.jpg
 
   # generate social links
   social_links:
