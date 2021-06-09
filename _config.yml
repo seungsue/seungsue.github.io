@@ -11,7 +11,7 @@ lin:
   date_format: "%b %-d, %Y"
 
   # path to the author avatar image
-  avatar_path: GWNU.jpg
+  avatar_path: ![강릉원주대학교 로고](./images/GWNU.jpg)
 
   # generate social links
   social_links:
