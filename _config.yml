@@ -11,7 +11,7 @@ lin:
   date_format: "%b %-d, %Y"
 
   # path to the author avatar image
-  avatar_path: assets/images/avatar.jpg
+  avatar_path: assets/images/GWNU.jpg
 
   # generate social links
   social_links:
